@@ -21,4 +21,4 @@
 
 ### write- /getExcellenceByYear/year
 
-[getExcellenceByYear](getExcellenceByYear)
+[getExcellenceByYear](https://hw2-1.herokuapp.com/getExcellenceByYear/2005)
