@@ -1,0 +1,27 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-params": "^0.0.3",
+    "js-select": "^0.6.0",
+    "mongoose": "^4.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adi2233/hw2.git"
+  },
+  "author": "adi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adi2233/hw2/issues"
+  },
+  "homepage": "https://github.com/adi2233/hw2#readme"
+}
